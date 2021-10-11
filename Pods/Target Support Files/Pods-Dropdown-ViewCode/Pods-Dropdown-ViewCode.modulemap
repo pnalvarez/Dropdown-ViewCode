@@ -1,0 +1,6 @@
+module Pods_Dropdown_ViewCode {
+  umbrella header "Pods-Dropdown-ViewCode-umbrella.h"
+
+  export *
+  module * { export * }
+}
